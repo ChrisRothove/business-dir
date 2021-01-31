@@ -1,0 +1,12 @@
+form {
+  max-width: 100%;
+}
+
+form input, form label, form textarea {
+  display:block;
+}
+
+form textarea {
+  width: 400px;
+  height:250px;
+}

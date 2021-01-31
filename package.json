@@ -1,0 +1,11 @@
+{
+  "name": "business-dir",
+  "version": "1.0.0",
+  "description": "form submit for business directory (GoL)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Rothove",
+  "license": "ISC"
+}
